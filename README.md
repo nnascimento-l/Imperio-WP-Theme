@@ -4,7 +4,7 @@ Site de uma **micronação** (projeto de simulação de Estado organizado como m
 
 **Site no ar:** https://imperiorusso.org
 
-![Home do site no computador](prints/home-desktop.png)
+<img width="1917" height="1078" alt="home-desktop" src="https://github.com/user-attachments/assets/e7b0e173-c62e-4357-96ca-51e38fab4921" />
 
 ## O problema
 
@@ -24,7 +24,8 @@ O site começou como um projeto estático em HTML, CSS e JavaScript. Funcionava,
 5. **Menu em vários níveis**, montado pelo cliente em Aparência > Menus, com versão compacta para celular.
 6. **Cabeçalho de vidro** (`backdrop-filter`) e menu com espaçamento ajustado por CSS, mais lupa de pesquisa.
 
-![Home no celular](prints/home-celular.png)
+<img width="1080" height="2201" alt="home-celular" src="https://github.com/user-attachments/assets/4efdb9d9-cdb5-4439-8824-8431d30f6ff4" />
+
 
 ## Tecnologias
 

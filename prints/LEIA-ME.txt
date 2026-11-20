@@ -1,2 +1,0 @@
-Coloque aqui os prints do site (ex.: home-desktop.png, home-celular.png, menu.png, painel-editor.png)
-e apague este arquivo. Os nomes acima já são os usados no README.
